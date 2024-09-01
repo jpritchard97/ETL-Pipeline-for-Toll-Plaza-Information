@@ -16,13 +16,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline designed to s
 
 To set up this project on your local machine, follow these steps:
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
-
-2. **Create and Activate a Virtual Environment**
+1. **Create and Activate a Virtual Environment**
 
 # Create a virtual environment
 python -m venv venv
@@ -33,7 +27,7 @@ venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
 
-3. **Install Required Dependencies**
+2. **Install Required Dependencies**
 
 Create a requirements.txt file with the following content:
 
@@ -47,7 +41,7 @@ Then, install the dependencies:
 
 pip install -r requirements.txt
 
-4. **Usage**
+3. **Usage**
 
     1. **Run the ETL Pipeline**
 
